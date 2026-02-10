@@ -1,6 +1,5 @@
 import os
 import sys
-
 # 1. Environment Compatibility Fixes
 os.environ["TF_USE_LEGACY_KERAS"] = "1"
 
@@ -148,4 +147,5 @@ class KinderJoyApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = KinderJoyApp(root)
+
     root.mainloop()
