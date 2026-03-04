@@ -4,7 +4,6 @@
 LatentId is a privacy-preserving image protection system designed to safeguard human identity from misuse by modern AI image generation models. The system allows users to upload personal images and applies subtle, non-destructive transformations that preserve visual quality for humans while reducing the ability of AI systems to reliably reconstruct or regenerate the same individual.
 
 This project focuses on **preemptive identity protection**, shifting the paradigm from reactive deepfake detection to proactive consent-by-design image safety.
-
 ---
 
 ## 🚀 Key Idea
